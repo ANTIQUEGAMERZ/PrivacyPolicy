@@ -6,7 +6,6 @@ body {
      max-width: 800px;
      margin: auto;
      padding: 20px;
-     background: black;
 }
 h1 {
     color: #FFC107;
@@ -25,8 +24,8 @@ h3 {
 }
 p {
 margin: 10px 0;
-      color: white;
+      color: black;
 }
 details{
-      color: white;
+      color: black;
 }
